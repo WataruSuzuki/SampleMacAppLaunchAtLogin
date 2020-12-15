@@ -1,0 +1,6 @@
+framework module SwiftLibMixedStyle {
+  umbrella header "SwiftLibMixedStyle-umbrella.h"
+
+  export *
+  module * { export * }
+}

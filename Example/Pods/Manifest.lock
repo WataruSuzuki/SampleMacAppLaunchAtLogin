@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+  - SwiftLibMixedStyle (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+  - SwiftLibMixedStyle (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  SwiftLibMixedStyle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  SwiftLibMixedStyle: f2bef98b0b83fa34d0728fe03e282bce3b0fa0fe
+
+PODFILE CHECKSUM: c10b0c128f8813cda4deec8df26a6fd3274c0bdd
+
+COCOAPODS: 1.10.1

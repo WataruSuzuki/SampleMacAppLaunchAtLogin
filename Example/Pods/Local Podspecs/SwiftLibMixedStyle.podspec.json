@@ -1,0 +1,22 @@
+{
+  "name": "SwiftLibMixedStyle",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftLibMixedStyle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WataruSuzuki/SwiftLibMixedStyle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WataruSuzuki": "wataru0406@hotmail.co.jp"
+  },
+  "source": {
+    "git": "https://github.com/WataruSuzuki/SwiftLibMixedStyle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/SwiftLibMixedStyle/Classes/**/*"
+}

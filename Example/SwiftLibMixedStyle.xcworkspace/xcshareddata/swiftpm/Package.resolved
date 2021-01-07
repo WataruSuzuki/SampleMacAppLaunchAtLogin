@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftLibMixedStyle",
+        "repositoryURL": "/Users/watsuzuk/XcodeProjects/Study-MixedStyle-CocoaPods-Swift",
+        "state": {
+          "branch": null,
+          "revision": "8312953c66690f0b6ef972efedae521444d43dbe",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

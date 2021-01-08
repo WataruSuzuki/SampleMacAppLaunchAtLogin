@@ -1,3 +1,3 @@
 struct SwiftLibMixedStyle {
-    var text = "Hello, Swift Package Manager!"
+    var text = "Hello, Local Dependecy Swift Package Manager!"
 }
